@@ -10,8 +10,8 @@ force_install_dir set YOUR Installation folder "C:\hellionserver"
 4. Portforward your HELLION PORTS. TCP:1337-1339 | UDP: 1337-1339
 5. Edit GameServer_example.ini to your needs and Set your selected ports, rename to "GameServer.ini"
 
-game_client_port=1234
-status_port=1234
+game_client_port=
+status_port=
 
 
 6. Example Config 
