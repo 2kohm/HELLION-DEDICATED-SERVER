@@ -22,10 +22,15 @@ status_port=
 server_name=My HELLION SERVER v0.1.5
 
 game_client_port=1337
+
 status_port=1338
+
 max_players=50
+
 number_of_save_files=3
+
 spawn_random_ships_count=300
+
 server_tick_count=128
 
 
