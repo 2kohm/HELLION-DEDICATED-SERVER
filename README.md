@@ -1,7 +1,6 @@
 # HELLION-DEDICATED-SERVER
 Automated Hellion Server Installer and auto Restarter
 
-HELLION DEDICATED SERVER SETUP BY YAMA
 
 1. Check "hellion_installer.txt"
 force_install_dir set YOUR Installation folder "C:\hellionserver"
