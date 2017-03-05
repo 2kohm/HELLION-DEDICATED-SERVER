@@ -33,4 +33,4 @@ spawn_random_ships_count=300
 server_tick_count=128
 
 
-(c) 2017 by Yama - http://galaxy9.de
+by Yama - http://galaxy9.de
