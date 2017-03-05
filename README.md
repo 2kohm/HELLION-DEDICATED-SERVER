@@ -11,6 +11,7 @@ force_install_dir set YOUR Installation folder "C:\hellionserver"
 5. Edit GameServer_example.ini to your needs and Set your selected ports, rename to "GameServer.ini"
 
 game_client_port=
+
 status_port=
 
 
