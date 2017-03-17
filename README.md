@@ -18,7 +18,7 @@ status_port=
 
 #Config by Yama
 
-server_name=My HELLION SERVER v0.1.5
+server_name=My HELLION SERVER v0.1.7
 
 game_client_port=1337
 
